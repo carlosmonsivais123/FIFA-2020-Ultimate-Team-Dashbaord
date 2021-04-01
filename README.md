@@ -1,6 +1,8 @@
 # FUT-Dashboard
 This is a dashboard that is live on a Python Anywhere server that gives a view of the FIFA 2020 video game mode called Ultimate Team.
 
+Live Dashboard Link: http://carlosmonsivais2.pythonanywhere.com/
+
 This game mode contains thousands of soccer players with individual statistics, and prices over time creating a market. With this in mind I created a dashboard to show the following:
 
 1. Descriptive Statistics: Shows different graphics about general statistics in the game such as number of players that prefer the right or left foot, players by position, etc.
